@@ -35,17 +35,7 @@ CREATE TABLE Especialidades
 	,DescricaoEspecialidade VARCHAR(150) NOT NULL
 );
 
-CREATE TABLE Clinicas
-(
-	IdClinica INT PRIMARY KEY IDENTITY
-	,RazaoSocial VARCHAR(150) UNIQUE NOT NULL
-	,NomeFantasia VARCHAR(150) NOT NULL
-	,Endereco VARCHAR(250) UNIQUE NOT NULL
-	,HorarioAbertura TIME NOT NULL
-	,HorarioFechamento TIME NOT NULL
-	,[Site] VARCHAR(150) UNIQUE NOT NULL
-	,CNPJ CHAR(14) UNIQUE NOT NULL
-);
+ 
 
 CREATE TABLE Medicos
 (

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Desktop\\Senai-2semestre\\senai_sprint2_backend\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj": {}
+    "C:\\Users\\44602584802\\Desktop\\Sprint2_Back_End\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Desktop\\Senai-2semestre\\senai_sprint2_backend\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj": {
+    "C:\\Users\\44602584802\\Desktop\\Sprint2_Back_End\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Senai-2semestre\\senai_sprint2_backend\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj",
+        "projectUniqueName": "C:\\Users\\44602584802\\Desktop\\Sprint2_Back_End\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj",
         "projectName": "senai_SpMedGroup_webApi_DBFirst",
-        "projectPath": "C:\\Users\\Matheus\\Desktop\\Senai-2semestre\\senai_sprint2_backend\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Desktop\\Senai-2semestre\\senai_sprint2_backend\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\obj\\",
+        "projectPath": "C:\\Users\\44602584802\\Desktop\\Sprint2_Back_End\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst.csproj",
+        "packagesPath": "C:\\Users\\44602584802\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\44602584802\\Desktop\\Sprint2_Back_End\\Exercícios\\SpMedicalGroup\\backend\\senai_SpMedGroup_webApi_DBFirst\\senai_SpMedGroup_webApi_DBFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\44602584802\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
